@@ -35,12 +35,12 @@ os.system("clear")
 os.system("figlet Spam-SmS")
 print ("""
 \033[90m=======================================
-\033[1;37mAuthor \033[1;31m : \033[1;37mMrDseC
-\033[1;37mYoutube \033[1;31m : \033[1;37mMrD seC
-\033[;1;37mGithub \033[1;31m : \033[1;37mhttps://github.com/MrDseC
+\033[1;37mAuthor \033[1;31m : \033[1;37ABIZAR
+\033[1;37mYoutube \033[1;31m : \033[1;37ABIZAR
+\033[;1;37mGithub \033[1;31m : \033[1;37RAHASIA YA
 \033[90m=======================================""")
 print ("\033[1;37mMASUKKAN NOMOR TANPA \033[1;31m0 \033[1;37mDAN TANPA \033[1;31m+62")
-no = input("\033[1;37mNOMOR TARGET \033[1;31m: \033[1;31m")
+no = input("\033[1;37NOMOR TARGET \033[1;31m: \033[1;31m")
 for i in range(1,4):
     sleep(1)
     marco()
